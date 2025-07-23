@@ -1,6 +1,6 @@
-![Badge Spring](https://raw.githubusercontent.com/PettersonnOliveira/ForumHUB-challenge/main/images/Badge-Spring.png)
-
 # FórumHub - API REST com Spring Boot
+
+![Badge Spring](https://raw.githubusercontent.com/PettersonnOliveira/ForumHUB-challenge/main/Badge-Spring.png)
 
 Este é um projeto de uma API REST para um fórum, desenvolvido com Spring Boot. A aplicação permite criar, listar, atualizar e deletar tópicos, representando um CRUD completo com uso de DTOs, persistência em banco de dados MySQL, migrações com Flyway e segurança robusta com autenticação JWT.
 
