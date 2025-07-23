@@ -115,7 +115,7 @@ spring.flyway.locations=classpath:db/migration
 spring.flyway.baseline-on-migrate=true
 
 # JWT
-api.security.token.secret=12345678901234567890123456789012
+api.security.token.secret=123456456789012
 ```
 
 ---
